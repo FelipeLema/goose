@@ -77,3 +77,5 @@ retract (
 	v3.12.1 // Invalid module reference
 	v3.12.0 // Invalid module reference
 )
+
+replace github.com/ClickHouse/clickhouse-go/v2 v2.17.1 => github.com/ClickHouse/clickhouse-go/v2 v2.22.94
